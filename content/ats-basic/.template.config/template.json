@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "AzuxirenLeadGuy",
+  "classifications": ["SFML", "Game"],
+  "identity": "Ats",
+  "name": "Azuxiren Template for SFML: Basic Project",
+  "shortName": "ats-basic",
+  "sourceName":"MyAtsGame",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
