@@ -10,6 +10,7 @@
     <Description>A basic implementation for a SFML game with boilerplate</Description>
     <PackageTags>SFML;Game</PackageTags>
     <PackageProjectUrl>https://github.com/AzuxirenLeadGuy/sfml-csharp-template</PackageProjectUrl>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
 
     <!-- Keep package type as 'Template' to show the package as a template package on nuget.org and make your template available in dotnet new search.-->
     <PackageType>Template</PackageType>
@@ -37,6 +38,7 @@
 
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="" />
+    <None Include="LICENSE" Pack="true" PackagePath=""/>
   </ItemGroup>
 
 </Project>
